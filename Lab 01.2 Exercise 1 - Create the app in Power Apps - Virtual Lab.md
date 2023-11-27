@@ -187,7 +187,7 @@ You can also use the formula bar or the **Advanced** tab to enter specific value
 23.  Set the **Image** value of the Logo Image to the following URL:    
 `"https://images-us-prod.cms.commerce.dynamics.com/cms/api/qbvttlwqcm/imageFileData/MA20RY?ver=c4b6&m=6&q=100"`
     
-   [![Screenshot of the logo image U R L.](media/image-url.png
+   [![Screenshot of the logo image U R L.](media/image-url.png)
     
 24.  Set the **X** and **Y** values of the Logo Image to `0`.
     

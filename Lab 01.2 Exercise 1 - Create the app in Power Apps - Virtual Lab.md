@@ -6,7 +6,7 @@ In this lab, you create a solution to hold your customizations, create your canv
 
 Note
 
-To complete the labs, you'll need to use a few files. Download the [Student files](https://github.com/Billy-Inatco/Power-Apps-Program/raw/main/Power%20Apps%20Labs/04%20-%20Workshop%20-%20Intermediate%20App%20Development%20Lab/All%20files/Machine-Order-Data.xlsx) for use in this lab.
+To complete the labs, you'll need to use a few files. Download the [Student files](https://github.com/MichelElAsmar/04---Workshop---Intermediate-App-Development-Lab/tree/main/All%20files/Machine-Order-Data.xlsx) for use in this lab.
 
 Task: Sign in to Power Apps web studio
 --------------------------------------

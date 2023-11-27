@@ -101,6 +101,7 @@ When you're working with control positioning, **X** refers to horizontal positio
     
     ```
     ThisItem.Photo
+    
     ``` 
     
 11.  Select the **Machine Type Gallery** and then select the edit button to put the gallery in edit mode.
